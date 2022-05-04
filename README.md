@@ -1,7 +1,7 @@
 ### Clone this repo with following commands:
 
 ```
-git clone https://github.com/GhostMaster69-dev/android_packages_apps_Musicolet.git -b main packages/apps/Musicolet
+git clone https://github.com/ebbieaden/android_packages_apps_Musicolet.git -b main packages/apps/Musicolet
 ```
 
 ### Add following package inside device tree(device.mk/common.mk):
@@ -109,15 +109,5 @@ Musicolet doesn't even use Internet permission (a.k.a. network access permission
 
 
 
-Made in India 🇮🇳 Made for the music lovers 🎶 all around the world 🌎.
 Created with love ❤, lots of code and sleepless nights. Hope you will like our work.
 
-
-
-
------------------
-Our official website: https://krosbits.in/musicolet
-https://krosbits.in/musicolet/download
------------------
-To send feedback/suggestions, report bugs or for other queries...
-Contact us: musicolet@krosbits.in
